@@ -1,9 +1,3 @@
-//t=stupidmovemove
-//y=smartmove
-//1-9=your move
-//wasdqe
-//mouse horizontal
-
 import javax.swing.*;
 import java.awt.*;
 import java.io.*;
