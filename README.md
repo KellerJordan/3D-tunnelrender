@@ -1,2 +1,2 @@
 # Java-3D-environment
-Flawed 3D java environment from scratch, written in 10th grade APCS
+3D java environment written from scratch in 10th grade APCS
